@@ -4,6 +4,6 @@ IpType = str
 Port = str
 Address = str
 ReplyTime = float
-Method = Literal['HTTP', 'HTTPS']
+Method = Literal['http', 'https']
 
 ProxyDict = dict[Method, Address]

@@ -6,3 +6,5 @@
 - 提供模块 api
 - 提供 proxy 管理
 - 提供[协程](https://docs.python.org/zh-cn/3/library/asyncio.html)支持
+
+免费代理不好找....建议使用付费代理
